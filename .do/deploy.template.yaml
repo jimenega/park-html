@@ -1,8 +1,8 @@
 spec:
-  name: sample-html
+  name: park-html
   static_sites:
   - environment_slug: html
     git:
       branch: main
-      repo_clone_url: https://github.com/digitalocean/sample-html.git
-    name: sample-html
+      repo_clone_url: https://github.com/jimenega/park-html.git
+    name: park-html
